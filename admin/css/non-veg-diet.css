@@ -1,0 +1,122 @@
+.nav{
+    height:80px;
+    box-shadow: 3px 5px 10px;
+    border-radius:5px;
+    margin:10px;
+}
+.nav h1{
+    float:right;
+    margin-right: 600px;
+}
+
+.back button{
+    margin:15px;
+    background-color: green;
+    height:40px;
+    width:100px;
+    border-radius:5px;
+}
+.left{
+    float: left;
+    width:34%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px
+}
+.right{
+    float: right;
+    width:63%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px;
+}
+.eggs{
+    height:200px;
+    width:510px;
+    border-radius: 5px;
+}
+.eggs-details{
+   margin:10px;
+   font-size: 20px;
+   justify-items: auto;
+}
+.left-2{
+    float: left;
+    width:63%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px
+}
+.right-2{
+    float: right;
+    width:34%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px;
+}
+.lamb_meet{
+    height:200px;
+    width:510px;
+    border-radius:5px;
+}
+.lamb_meet-details{
+    margin:10px;
+    font-size: 20px;
+    justify-items: auto;
+}
+.left-3{
+    float: left;
+    width:34%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px
+}
+.right-3{
+    float: right;
+    width:63%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px;
+}
+.salmon-fish{
+    height:200px;
+    width:510px;
+    border-radius:5px;
+}
+.salmon-fish-details{
+    margin:10px;
+    font-size: 20px;
+    justify-content: auto;
+}
+.left-4{
+    float: left;
+    width:63%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px
+}
+.right-4{
+    float: right;
+    width:34%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px;
+}
+.oats{
+    height:200px;
+    width:510px;
+    border-radius:5px;
+}
+.oats-details{
+    margin:10px;
+    font-size: 20px;
+    justify-content: auto;
+}

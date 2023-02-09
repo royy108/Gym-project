@@ -1,0 +1,115 @@
+.nav{
+    height:80px;
+    box-shadow: 3px 5px 10px;
+}
+.nav h1{
+    float:right;
+    margin-right: 700px;
+}
+.back button{
+    margin:20px;
+    background-color: green;
+    height:40px;
+    width:100px;
+    border-radius:5px;
+}
+.left{
+    float: left;
+    width:34%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px
+}
+.right{
+    float: right;
+    width:63%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px;
+}
+.nuts{
+    height:200px;
+    width:510px;
+}
+.nuts-details{
+   margin:10px;
+   font-size: 20px;
+   justify-items: auto;
+}
+.left-2{
+    float: left;
+    width:63%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px
+}
+.right-2{
+    float: right;
+    width:34%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px;
+}
+.quinoa{
+    height:200px;
+    width:510px;
+}
+.quinoa-details{
+    margin:10px;
+    font-size: 20px;
+    justify-items: auto;
+}
+.left-3{
+    float: left;
+    width:34%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px
+}
+.right-3{
+    float: right;
+    width:63%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px;
+}
+.brocolli{
+    height:200px;
+    width:510px;
+}
+.brocolli-details{
+    margin:10px;
+    font-size: 20px;
+    justify-content: auto;
+}
+.left-4{
+    float: left;
+    width:63%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px
+}
+.right-4{
+    float: right;
+    width:34%;
+    height:200px;
+    border-radius: 4px;
+    box-shadow: 3px 5px 10px;
+    margin:10px;
+}
+.peas{
+    height:200px;
+    width:510px;
+}
+.peas-details{
+    margin:10px;
+    font-size: 20px;
+    justify-content: auto;
+}
